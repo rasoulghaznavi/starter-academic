@@ -23,9 +23,9 @@ twitter: ''
 email: test@example.org
 phone: 021 - 4304 9555
 address:
-  street: Alibaba Group, Innovation Factory, Lashgari Hwy., Tehran, Iran
-  city: 
-  region: 
+  street: Alibaba Group, Innovation Factory, Lashgari Hwy.
+  city: Tehran
+  region: Iran
   postcode: ''
   country: Iran
   country_code: IRR
