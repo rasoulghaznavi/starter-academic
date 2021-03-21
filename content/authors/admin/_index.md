@@ -31,15 +31,12 @@ organizations:
     url: https://ut.ac.ir
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Business Administration (MBA)
+      institution: University of Tehran
+      year: 2019
+    - course: BSc in Mechanical Engineering
+      institution: Iran University of Science and Technology
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
