@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: Alibaba Travels Co
-    url: https://www.alibabatravels.co
+    url: https://www.alibaba.ir
   - name: University of Tehran
     url: https://ut.ac.ir
 education:
