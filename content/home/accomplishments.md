@@ -31,20 +31,20 @@ item:
   organization_url: https://www.darden.virginia.edu/
   title: Marketing Analytics
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/LZ3SHULGZ3KF
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_start: "2021-03-14"
+  description: 
+  organization: University of California, Davis
+  organization_url: https://www.ucdavis.edu/
+  title: 'The Strategy of Content Marketing'
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+- certificate_url: https://skillshop.exceedlms.com/student/award/38825449?referer=https%3A%2F%2Fskillshop.exceedlms.com%2Fstudent%2Fpath%2F18128%2Factivity%2F25345%3Fconfirm_disclaimer%3Dtrue%26id%3D18105
+  date_end: "2022-01-04"
+  date_start: "2021-01-04"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Google
+  organization_url:
+  title: 'Google Ads Search Certification'
   url: ""
 ---
