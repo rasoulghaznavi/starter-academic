@@ -25,8 +25,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Alibaba Travels Co
+    url: https://www.alibabatravels.co
+  - name: University of Tehran
+    url: https://ut.ac.ir
 education:
   courses:
     - course: PhD in Artificial Intelligence
